@@ -6,7 +6,8 @@
 
 ### Experience
 
-💻 I have hands-on experience with the **Java/Spring Boot ecosystem**, **CI/CD pipelines**, and **Maven/Gradle** build tools. I’m currently diving deep into **Java backend fundamentals**, exploring topics such as **concurrency**, the **AWS ecosystem**, **design patterns**, and **system design**.
+💻 I have hands-on experience with the **Java/Spring Boot ecosystem** and **CI/CD pipelines**s. 
+✨ I’m currently diving deep into **Java backend fundamentals**, exploring topics such as **concurrency**, **design patterns**, and **system design**.
 💡 I’m also interested in modern engineering practices like **Test-Driven Development (TDD)**, **Domain-Driven Design (DDD)**, and **Specification-Driven Development**.
 
 ### Previous Working Experience
